@@ -9,11 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "next": "^13.5.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-calendar": "^5.0.0"
 
+=======
+    "next": "^18.2.0",
+    "react": "^18.2.0",
+    "react-calendar": "^5.0.0",
+    "react-dom": "^13.0.0"
+>>>>>>> 06e3ee4494b20afba5831c265446a44d92a38ea2
   },
   "devDependencies": {
     "@types/node": "^20",
