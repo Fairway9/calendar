@@ -13,10 +13,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-calendar": "^5.0.0"
-<<<<<<< HEAD
-
-=======
->>>>>>> 6390f5a0a3e92f6ac94566f3fd1b6275d55b7f96
   },
   "devDependencies": {
     "@types/node": "^20",
